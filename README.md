@@ -43,7 +43,7 @@ Tenho base em **Redação**, **Excel** e **Word**, e estou estudando
   </div>
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoamorinz0&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars&commits_year=2025&v=2025" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoamorinz0&theme=dracula&bg_color=#ccc&show_icons=true&hide_title=true&hide=stars&commits_year=2025&v=2025" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamorinz0&layout=compact&theme=dracula&bg_color=4f4045&v=2025" height="150" alt="Most Used Languages" />
 </div>
 
