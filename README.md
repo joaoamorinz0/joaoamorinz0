@@ -1,12 +1,12 @@
 
 
-<h1 align="center" color= "#333">Hello World!</h1>
+<h1 align="center">Hello World!</h1>
 
 
 
 
 <p align="center">
-<img src="./typing.gif" width="450" />
+<img src="./gitgif.gif" width="450" />
 </p>
 
 <p align="center">Front-end em formação inicial • JavaScript • HTML • CSS</p>
@@ -14,7 +14,8 @@
 
   ## 🌙 Sobre mim
 
-Moro em Brasília – DF | Sou estudante e atualmente trabalho na **RENAPSI**.  
+João | 16y | Brasília – DF
+Atualmente sou estudante e trabalho na **RENAPSI**.  
 Estou em transição para a área de tecnologia, focado em **Front-end**.
 
 Tenho base em **Redação**, **Excel** e **Word**, e estou estudando  
