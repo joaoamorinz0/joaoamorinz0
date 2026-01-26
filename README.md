@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="./typing.gif" width="300" />
+<img src="./typing.gif" width="450" />
 </p>
 
 <p align="center">Front-end em formação inicial • JavaScript • HTML • CSS</p>
