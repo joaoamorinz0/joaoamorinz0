@@ -11,11 +11,14 @@
 
 <p align="center">Front-end em formação inicial • JavaScript • HTML • CSS</p>
 
-## 🩸 Sobre mim
-- 🎓 Estudante
-- 💻 Focado em Front-end
-- 🌙 Buscando aprender cada vez mais
-- 🚀 Evoluindo um projeto por vez
+
+  ## 🌙 Sobre mim
+
+Moro em Brasília – DF | Sou estudante e atualmente trabalho na **RENAPSI**.  
+Estou em transição para a área de tecnologia, focado em **Front-end**.
+
+Tenho base em **Redação**, **Excel** e **Word**, e estou estudando  
+**HTML, CSS e JavaScript**, sempre aplicando em projetos práticos.
 
   ## ⚙️ Stack
 <p align="center">
