@@ -21,8 +21,6 @@ Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar 
 
 - 🔨 Construindo o **[JARVIS](https://github.com/joaoamorinz0/JARVIS)** — meu assistente de IA pessoal com LLM, TTS, Spotify, Gmail, notificações mobile e frontend React
 - 📚 Estudando React, TypeScript, Python, FastAPI e integração com APIs de IA
-- 🎯 Meta: Freelancer → Full Stack Developer → Indie Hacker
-- 🎵 Ouço Jeff Buckley, Elliott Smith e The Smiths enquanto codifico
 
 ---
 
