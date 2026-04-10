@@ -41,8 +41,8 @@ Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar 
 | Projeto | Descrição | Tech |
 |--------|-----------|------|
 | [🤖 JARVIS](https://github.com/joaoamorinz0/JARVIS) | Assistente de IA pessoal com chat, voz, Spotify, Gmail e notificações | Python · FastAPI · React · Groq |
-| [💪 Atlethica Academia](https://github.com/joaoamorinz0) | Landing page de academia com design moderno | React · CSS |
-| [🪵 Local Business Template](https://github.com/joaoamorinz0) | Template reutilizável de landing page para pequenos negócios | React |
+| [💪 Atlethica Academia](https://github.com/joaoamorinz0/atlethica) | Landing page de academia com design moderno | React · CSS |
+| [🗺️ Buscador de CEP](https://github.com/joaoamorinz0/buscador-de-cep) | Buscador de CEP com API | HTML · css · JS|
 
 ---
 
