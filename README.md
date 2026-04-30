@@ -34,6 +34,15 @@ Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar 
   <sub>Estudando: FastAPI • APIs de IA • TypeScript</sub>
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamorinz0&layout=compact&theme=dark&hide_border=true" 
+  />
+</p>
+
 ---
 
 ## 🚀 Projetos em destaque
