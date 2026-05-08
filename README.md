@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/16_anos-Goiás,_Brasil-1a1a1a?style=flat-square&labelColor=000" />
   <img src="https://img.shields.io/badge/Stack-Full_Stack_em_formação-1a1a1a?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/Focus-React_•_Python_•_IA-1a1a1a?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/Focus-React_•_Python_-1a1a1a?style=flat-square&labelColor=000" />
 </p>
 
 ---
@@ -19,8 +19,7 @@ Trabalho como auxiliar administrativo na **RENAPSI** e estudo desenvolvimento de
 
 Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar produtos reais — desde a interface até a inteligência por trás dela.
 
-- 🔨 Construindo o **[JARVIS](https://github.com/joaoamorinz0/JARVIS)** — meu assistente de IA pessoal com LLM, TTS, Spotify, Gmail, notificações mobile e frontend React
-- 📚 Estudando React, TypeScript, Python, FastAPI e integração com APIs de IA
+- 📚 Estudando React, Python, FastAPI e Django
 
 ---
 
@@ -49,8 +48,7 @@ Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar 
 
 | Projeto | Descrição | Tech |
 |--------|-----------|------|
-| [🤖 JARVIS](https://github.com/joaoamorinz0/JARVIS) | Assistente de IA pessoal com chat, voz, Spotify, Gmail e notificações | Python · FastAPI · React · Groq |
-| [💪 Atlethica Academia](https://github.com/joaoamorinz0/atlethica) | Landing page de academia com design moderno | React · CSS |
+| [🌦️Weather Check](https://github.com/joaoamorinz0/weather-check) | Projeto com a API de clima OpenWeather utilizando html, css e JavaScript | HTML · CSS · JS |
 | [🗺️ Buscador de CEP](https://github.com/joaoamorinz0/buscador-de-cep) | Buscador de CEP com API | HTML · css · JS|
 
 ---
