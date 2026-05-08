@@ -30,7 +30,7 @@ Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar 
 </p>
 
 <p align="center">
-  <sub>Estudando: FastAPI • APIs de IA • TypeScript</sub>
+  <sub>Estudando: FastAPI • Python • React</sub>
 </p>
 
 ## 📊 GitHub Analytics
