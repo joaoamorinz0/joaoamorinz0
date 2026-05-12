@@ -35,12 +35,12 @@ Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamorinz0&layout=compact&theme=dark&hide_border=true" 
-  />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoamorinz0" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoamorinz0&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
