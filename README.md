@@ -37,7 +37,9 @@ Atualmente meu foco é me tornar um **desenvolvedor Full Stack** capaz de criar 
 
 ![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoamorinz0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamorinz0&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamorinz0&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaoamorinz0&theme=radical)
 
 ---
 
