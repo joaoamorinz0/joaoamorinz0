@@ -36,7 +36,11 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 ---
 ---
 
-# ⚔️ WEAPONS
+## ⚔️ WEAPONS
+
+<table>
+<tr>
+<td width="70%">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma" />
@@ -45,6 +49,16 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 <p align="center">
   <img src="https://img.shields.io/badge/Always_learning-F7C600?style=for-the-badge&labelColor=000000&color=F7C600"/>
 </p>
+
+</td>
+
+<td width="30%" align="right">
+
+<img src="./hatorihanzo.png" width="140"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
