@@ -52,9 +52,9 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 
 </td>
 
-<td width="30%" align="right">
+<td width="50%" align="right">
 
-<img src="./hatorihanzo.png" width="140"/>
+<img src="./hatorihanzo.png" width="200"/>
 
 </td>
 </tr>
