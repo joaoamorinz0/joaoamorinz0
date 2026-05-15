@@ -81,7 +81,7 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 ---
 
 <p align="center">
-  <img src="./line.png" width="500"/>
+  <img src="./line.png" width="900" margin="0"/>
 </p>
 
 ---
