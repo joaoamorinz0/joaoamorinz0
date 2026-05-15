@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./sword.png" width="700"/>
+  <img src="./Kill Bill (2004).jpg" width="700"/>
 </p>
 
 <p align="center">
@@ -34,11 +34,6 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 * Django
 
 ---
-
-<p align="center">
-  <img src="./sword.png" width="500"/>
-</p>
-
 ---
 
 # ⚔️ WEAPONS
