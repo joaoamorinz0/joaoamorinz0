@@ -16,7 +16,13 @@
   <img src="https://img.shields.io/badge/Focus-React_•_Python-F7C600?style=for-the-badge&labelColor=000000&color=F7C600" />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=F7C600&height=3&section=footer"
+    width="100%"
+  />
+</p>
+
 
 # 🗡️ ABOUT
 
@@ -33,8 +39,13 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 * FastAPI
 * Django
 
----
----
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=F7C600&height=3&section=footer"
+    width="100%"
+  />
+</p>
+
 
 ## ⚔️ WEAPONS
 
@@ -60,7 +71,13 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 </tr>
 </table>
 
----
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=F7C600&height=3&section=footer"
+    width="100%"
+  />
+</p>
+
 
 # 📊 GITHUB ANALYTICS
 
@@ -78,7 +95,6 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
   />
 </p>
 
----
 
 <p align="center">
   <img 
@@ -87,8 +103,6 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
   />
 </p>
 
-
----
 
 # 🎯 FEATURED PROJECTS
 
