@@ -81,8 +81,12 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 ---
 
 <p align="center">
-  <img src="./line.png" width="900" margin="0"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=F7C600&height=3&section=footer"
+    width="100%"
+  />
 </p>
+
 
 ---
 
