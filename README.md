@@ -58,7 +58,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 </p>
 
 <p align="center">
-  <img src="./weapons.jpg" width="100%"/>
+  <img src="./weapons.jpg" width="700" height="300"/>
 </p>
 
 
@@ -119,13 +119,6 @@ My focus is to become a Full Stack developer capable of building complete produc
   <sub>
     Forged by focus and many musics.
   </sub>
-</p>
-
-<p align="center">
-   <img 
-    src="./footer.png"
-    width="100%"
-  />
 </p>
 
 
