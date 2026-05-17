@@ -58,7 +58,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 </p>
 
 <p align="center">
-  <img src="./hatorihanzo.png" width="260" rotate(90deg)/>
+  <img src="./weapons.jpg" width="260"/>
 </p>
 
 
@@ -120,3 +120,13 @@ My focus is to become a Full Stack developer capable of building complete produc
     Forged by focus and many musics.
   </sub>
 </p>
+
+<p align="center">
+   <img 
+    src="./footer.png"
+    width="100%"
+  />
+</p>
+
+
+
