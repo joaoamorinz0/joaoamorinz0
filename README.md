@@ -58,7 +58,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 </p>
 
 <p align="center">
-  <img src="./weapons.jpg" width="260"/>
+  <img src="./weapons.jpg" width="100%"/>
 </p>
 
 
