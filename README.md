@@ -32,13 +32,6 @@ I currently work as an administrative assistant at RENAPSI while studying softwa
 
 My focus is to become a Full Stack developer capable of building complete products,  from modern interfaces to intelligent and scalable systems.
 
-### Currently Studying:
-
-* React
-* Python
-* FastAPI
-* Django
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=F7C600&height=3&section=footer"
@@ -54,7 +47,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ALWAYS_LEARNING-F7C600?style=for-the-badge&labelColor=000000&color=F7C600"/>
+  <img src="https://img.shields.io/badge/CURRENTLY_STUDYING-REACT_•_PYTHON_•_FASTAPI_•_DJANGO-F7C600?style=for-the-badge&labelColor=000000&color=F7C600"/>
 </p>
 
 <p align="center">
