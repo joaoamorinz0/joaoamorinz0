@@ -58,7 +58,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 </p>
 
 <p align="center">
-  <img src="./hatorihanzo.png" width="260"/>
+  <img src="./hatorihanzo.png" width="260" rotate(90deg)/>
 </p>
 
 
