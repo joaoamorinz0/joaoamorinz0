@@ -1,10 +1,10 @@
 <h1 align="center">𝗝𝗢𝗔𝗢 𝗩𝗜𝗖𝗧𝗢𝗥</h1>
 
-<p align="center">
+<h2 align="center">
   <sub>
     Front-End Developer • Full Stack in progress
   </sub>
-</p>
+</h2>
 
 <p align="center">
   <img src="./Kill Bill (2004).jpg" width="700"/>
@@ -26,13 +26,13 @@
 
 # 🗡️ ABOUT
 
-Tenho 16 anos, sou de Goiás e estou construindo minha carreira em tecnologia do zero.
+I'm 16 years old, from Goiás, Brazil, and currently building my career in technology from scratch.
 
-Atualmente trabalho como auxiliar administrativo na **RENAPSI** enquanto estudo desenvolvimento de software de forma autodidata e intensiva.
+I currently work as an administrative assistant at RENAPSI while studying software development through self-taught and intensive training.
 
-Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produtos completos — desde interfaces modernas até sistemas inteligentes e escaláveis.
+My focus is to become a Full Stack developer capable of building complete products,  from modern interfaces to intelligent and scalable systems.
 
-### Atualmente estudando:
+### Currently Studying:
 
 * React
 * Python
@@ -49,34 +49,18 @@ Meu foco é me tornar um **desenvolvedor Full Stack** capaz de construir produto
 
 ## ⚔️ WEAPONS
 
-<table>
-<tr>
-<td width="70%">
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always_learning-F7C600?style=for-the-badge&labelColor=000000&color=F7C600"/>
+  <img src="https://img.shields.io/badge/ALWAYS_LEARNING-F7C600?style=for-the-badge&labelColor=000000&color=F7C600"/>
 </p>
-
-</td>
-
-<td width="50%" align="right">
-
-<img src="./hatorihanzo.png" width="200"/>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=F7C600&height=3&section=footer"
-    width="100%"
-  />
+  <img src="./hatorihanzo.png" width="260"/>
 </p>
+
 
 
 # 📊 GITHUB ANALYTICS
