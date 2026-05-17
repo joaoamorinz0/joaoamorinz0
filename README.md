@@ -121,5 +121,11 @@ My focus is to become a Full Stack developer capable of building complete produc
   </sub>
 </p>
 
+<p align="center">
+  <sub>
+    inspired by Quentin Tarantino cinematography
+  </sub>
+</p>
+
 
 
