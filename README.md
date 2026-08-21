@@ -43,7 +43,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 ## ⚔️ WEAPONS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma,linux,typescript" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 
 | Projeto                                                                | Descrição                                       | Tech                    |
 | ---------------------------------------------------------------------- | ----------------------------------------------- | ----------------------- |
-| [🌦️ Weather Check](https://github.com/joaoamorinz0/weather-check)     | Aplicação de clima utilizando a API OpenWeather | HTML • CSS • JavaScript |
+| [🧭 Colalá](https://github.com/joaoamorinz0/colala)     | Aplicativo de descoberta de lugares e experiências | React • Typescript • JavaScript • Next.JS |
 | [🗺️ Buscador de CEP](https://github.com/joaoamorinz0/buscador-de-cep) | Sistema de busca de CEP utilizando API          | HTML • CSS • JavaScript |
 
 ---
@@ -110,7 +110,7 @@ My focus is to become a Full Stack developer capable of building complete produc
 
 <p align="center">
   <sub>
-    Forged by focus and many musics.
+    Forged by focus, coffee and many musics.
   </sub>
 </p>
 
