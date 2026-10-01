@@ -43,11 +43,11 @@ My focus is to become a Full Stack developer capable of building complete produc
 ## ⚔️ WEAPONS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma,linux,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma,linux,typescript, fedora" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CURRENTLY_STUDYING-REACT_•_NODE_•_TYPESCRIPT_•_PYTHON-F7C600?style=for-the-badge&labelColor=000000&color=F7C600"/>
+  <img src="https://img.shields.io/badge/CURRENTLY_STUDYING-REACT_•_NODE_•_JAVA_•_TYPESCRIPT_•_PYTHON-F7C600?style=for-the-badge&labelColor=000000&color=F7C600"/>
 </p>
 
 <p align="center">
